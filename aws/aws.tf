@@ -17,6 +17,7 @@ variable "vm_name" {
 }
 
 variable "location" {
+      type = string
       default = "ap-northeast-1"
       description = "Resource location"
 }
