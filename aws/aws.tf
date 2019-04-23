@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "${location}"
+  region = "${var.location}"
 }
   
 resource "aws_instance" "test_VM" {
