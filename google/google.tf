@@ -27,7 +27,7 @@ variable "vm_name" {
 }
 
 variable "location" {
-  default = "us-central1"
+  default = "us-central2222"
   description = "Resource location"
 }
 
