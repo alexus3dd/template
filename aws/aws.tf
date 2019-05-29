@@ -17,6 +17,6 @@ variable "vm_name" {
 }
 
 variable "location" {
-      default = "ap-northeast-1234"
+      default = "ap-northeast-123"
       description = "Resource location"
 }
