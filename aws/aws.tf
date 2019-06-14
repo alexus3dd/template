@@ -13,7 +13,7 @@ resource "aws_instance" "test_VM" {
 }
 
 variable "vm_name" {
-   description = "Name for VM."
+   description = "Name for VM"
 }
 
 variable "location" {
