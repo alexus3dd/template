@@ -21,4 +21,4 @@ variable "location" {
       description = "Resource location"
 }
    
-    
+  error  
