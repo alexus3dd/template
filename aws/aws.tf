@@ -21,3 +21,4 @@ variable "location" {
       description = "Resource location"
 }
    
+    
