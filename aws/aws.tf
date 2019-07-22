@@ -21,4 +21,3 @@ variable "location" {
       default = "ap-northeast-1"
       description = "Resource location"
 }
-gfjfgjg
