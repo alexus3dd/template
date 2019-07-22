@@ -13,6 +13,7 @@ resource "aws_instance" "test_VM" {
 }
 
 variable "vm_name" {
+   default = "VM_name"
    description = "Name for VM"
 }
 
