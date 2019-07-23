@@ -39,4 +39,3 @@ variable "location_zone" {
 output "instance_id" {
  value = "${google_compute_instance.default.self_link}"
 }
-
